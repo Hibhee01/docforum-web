@@ -2,7 +2,9 @@ node_modules/
 dist/
 build/
 *.tsbuildinfo
-.env
-.env.local
+temp_auto_push.bat
 *.log
 .DS_Store
+.gitignore
+branch_structure.json
+config.bat
